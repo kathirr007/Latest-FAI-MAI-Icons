@@ -1,0 +1,22 @@
+{
+  "name": "fontawesome-icons-pro",
+  "version": "1.0.0",
+  "description": "Guide to use FontAwesome Pro Icons in your local Develeopment Environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathirr007/FontAwesome-Icons-Pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathirr007/FontAwesome-Icons-Pro/issues"
+  },
+  "homepage": "https://github.com/kathirr007/FontAwesome-Icons-Pro#readme",
+  "devDependencies": {
+    "serve": "^11.0.0"
+  }
+}
