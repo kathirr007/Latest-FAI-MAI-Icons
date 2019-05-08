@@ -26,6 +26,8 @@ npm serve .
 ### Hint to download all webfonts at once
 - Use Internet Download Manager to download all at once.
 - Copy the links below 
+
+```
 https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.eot
 https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.svg
 https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.ttf
@@ -46,6 +48,7 @@ https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.svg
 https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.ttf
 https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff
 https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff2
+```
 
 - Now select Tasks --> Add batch download from clipboard
 
