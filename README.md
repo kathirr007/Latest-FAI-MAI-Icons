@@ -9,7 +9,8 @@ npm install
 ```
 npm serve .
 ```
-### To check the latest fonts open index.html and see working icons
+### To check the latest fonts 
+open index.html and see working icons
 
 ## Guide to use FontAwesome Pro Icons in your local Develeopment Environment.
 
