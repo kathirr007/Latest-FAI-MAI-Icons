@@ -17,16 +17,16 @@ open index.html and see working icons
 Filenames are always the same. Each file has its unique last char + filetype:
 "flUhRq6tzZclQEJ-Vdg-IuiaDsN" + [ Y.eot | c.woff2 | a.woff | Z.ttf ]
 
-EOT
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNY.eot
-WOFF2
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2
-WOFF
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff
-TFF
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+EOT  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNY.eot  
+WOFF2  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2  
+WOFF  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff  
+TFF  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf  
 
-For future updates, just check the lastest version available from here:
+For future updates, just check the lastest version available from here:  
 https://fonts.googleapis.com/icon?family=Material+Icons
 
 Replace the old version number with the new one.
