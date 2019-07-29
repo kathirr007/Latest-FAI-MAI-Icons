@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm serve .
+serve .
 ```
 ### To check the latest fonts 
 open index.html and see working icons
