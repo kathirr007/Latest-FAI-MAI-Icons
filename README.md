@@ -1,4 +1,4 @@
-# FontAwesome-Icons-Pro / Material-Icons latest
+# Latest FontAwesome-Icons / Material-Icons
 
 ## Testing setup
 ```
