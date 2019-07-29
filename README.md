@@ -39,7 +39,7 @@ Replace the old version number with the new one.
 
 - Inside that you will get the latest releases files like "css" & "webfonts"
 
-- In "css" directory you can find "all.css" and in "webfonts" directory you can find font files
+- In "css" directory you can find "all.css" or "pro.min.css" and in "webfonts" directory you can find font files
 
 - Now you know what to do to get things work in local Develeopment.
 
