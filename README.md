@@ -20,11 +20,11 @@ Filenames are always the same. Each file has its unique last char + filetype:
 EOT  
 https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNY.eot  
 WOFF2  
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2
 WOFF  
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff
 TFF  
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
 
 For future updates, just check the lastest version available from here:  
 https://fonts.googleapis.com/icon?family=Material+Icons
@@ -70,7 +70,7 @@ https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff
 https://pro-next.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff2
 ```
 
-for latest as of August'19
+for latest as of Sep'19
 
 ```
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.0.0.eot
@@ -193,6 +193,16 @@ https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.9.0.svg
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.9.0.ttf
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.9.0.woff
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.9.0.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.1.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.1.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.1.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.1.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.1.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.2.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.2.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.2.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.2.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-duotone-900-pro-5.10.2.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.0.0.eot
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.0.1.eot
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.0.3.eot
@@ -308,6 +318,16 @@ https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.7.1.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.8.0.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.8.2.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.9.0.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.1.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.1.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.1.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.1.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.1.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.2.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.2.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.2.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.2.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-light-300-pro-5.10.2.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.0.0.eot
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.0.1.eot
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.0.3.eot
@@ -422,6 +442,16 @@ https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.7.1.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.8.0.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.8.2.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.9.0.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.1.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.1.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.1.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.1.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.1.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.2.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.2.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.2.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.2.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-regular-400-pro-5.10.2.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.0.0.eot
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.0.5.eot
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.0.7.eot
@@ -507,6 +537,16 @@ https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.7.0.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.7.1.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.8.0.woff2
 https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.9.0.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.1.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.1.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.1.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.1.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.1.woff2
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.2.eot
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.2.svg
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.2.ttf
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.2.woff
+https://kit-pro.fontawesome.com/algo/2/webfonts/fa-solid-900-pro-5.10.2.woff2
 ```
 
 - Now select Tasks --> Add batch download from clipboard
