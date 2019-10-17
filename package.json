@@ -4,7 +4,8 @@
   "description": "Guide to use FontAwesome Pro Icons in your local Develeopment Environment.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",

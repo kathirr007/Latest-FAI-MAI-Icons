@@ -26,3 +26,16 @@ html {
     font-size: 24px;
     font-weight: bold;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    small {
+        font-size: 65%;
+        font-weight: normal;
+        display: block;
+    }
+}
+pre {
+    max-height: 400px;
+    overflow: hidden;
+    overflow-y: auto;
+}

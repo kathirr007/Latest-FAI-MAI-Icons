@@ -55,6 +55,8 @@ let css = {
         in: [
             source + 'css/pro.css',
             source + 'css/material-icons.css',
+            source + 'css/prism.css',
+            source + 'css/prism-atom-dark.css',
         ],
         watch: ['css/**/*.css'],
         out: dest + 'css/'
@@ -71,6 +73,11 @@ let fonts = {
     in: source + 'fonts/**/*',
     out: dest + 'fonts/'
 };
+
+let js = {
+    in: source + 'js/**/*.js',
+    out: dest + 'js/'
+}
 
 let syncOpts = {
     server: {
@@ -100,6 +107,10 @@ gulp.task('clean-css', cb => {
     del([dest + 'css/**/*'], cb());
 });
 
+gulp.task('clean-js', cb => {
+    del([dest + 'js/**/*'], cb());
+});
+
 // reload task
 gulp.task('reload', done => {
     browserSync.reload();
@@ -107,15 +118,15 @@ gulp.task('reload', done => {
 });
 
 // Markdown to HTML
-gulp.task('mark-to-html', (cb) => {
+/* gulp.task('mark-to-html', (cb) => {
     return gulp.src(html.markdown.in)
     .pipe($.markdown())
     .pipe($.rename('index.html'))
     .pipe(gulp.dest(dest))
-})
+}) */
 
 // build HTML files
-gulp.task('html', gulp.series('mark-to-html', () => {
+gulp.task('html', () => {
     var page = gulp
         .src(html.in)
         .pipe($.newer(html.out))
@@ -136,7 +147,7 @@ gulp.task('html', gulp.series('mark-to-html', () => {
     return (
         page.pipe(gulp.dest(html.out))
     );
-}));
+});
 
 // copy fonts
 gulp.task('fonts', () => {
@@ -178,6 +189,14 @@ gulp.task(
         );
     })
 );
+
+// copy javasacript files
+gulp.task('js', () => {
+    return gulp
+        .src(js.in)
+        .pipe($.newer(dest + 'js/'))
+        .pipe(gulp.dest(dest + 'js/'));
+});
 
 // sass compilation
 gulp.task('sass', function(){
@@ -221,7 +240,7 @@ gulp.task(
     'watch',
     gulp.parallel('serve', () => {
         // markdown changes
-        gulp.watch(html.markdown.watch, gulp.series('mark-to-html', 'reload'));
+        // gulp.watch(html.markdown.watch, gulp.series('mark-to-html', 'reload'));
         // html changes
         gulp.watch(html.watch, gulp.series('html', 'reload'));
         // font changes
@@ -230,9 +249,11 @@ gulp.task(
         gulp.watch(css.watch, gulp.series('sass'));
         // pluginCSS changes
         gulp.watch([...css.pluginCSS.in], gulp.series('css'));
+        // js changes
+        gulp.watch(js.in, gulp.series('js'));
     })
 );
 
 gulp.task('build', gulp.parallel('html', 'css', 'sass', 'fonts'));
 
-gulp.task('default', gulp.parallel('html', 'css', 'sass', 'fonts', gulp.series('watch')));
+gulp.task('default', gulp.parallel('html', 'css', 'sass', 'fonts', 'js', gulp.series('watch')));
