@@ -18,5 +18,6 @@
   "homepage": "https://github.com/kathirr007/FontAwesome-Icons-Pro#readme",
   "devDependencies": {
     "serve": "^11.0.0"
-  }
+  },
+  "dependencies": {}
 }

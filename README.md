@@ -14,20 +14,93 @@ open index.html and see working icons
 
 ## Guide to Get latest Material-Icons for your local Develeopment Environment or for Self hosting.
 
-Filenames are always the same. Each file has its unique last char + filetype:
-"flUhRq6tzZclQEJ-Vdg-IuiaDsN" + [ Y.eot | c.woff2 | a.woff | Z.ttf ]
+### Material Icons Regular
 
-EOT  
-https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNY.eot  
-WOFF2  
+Filenames are always the same. Each file has its unique last char + filetype:
+
+"**flUhRq6tzZclQEJ-Vdg-IuiaDsN**" + [ **Y**.eot | **c**.woff2 | **a**.woff | **Z**.ttf ]
+
+```
 https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2
-WOFF  
+https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNY.eot
 https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff
-TFF  
 https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+```
 
 For future updates, just check the lastest version available from here:  
 https://fonts.googleapis.com/icon?family=Material+Icons
+
+Replace the old version number with the new one.
+
+### Material Icons Outlined
+
+Filenames are always the same. Each file has its unique last char + filetype: 
+
+"**gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUc**" + [ e.woff2 | a.eot | Y.woff | d.otf ]
+
+```
+https://fonts.gstatic.com/s/materialiconsoutlined/v13/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUce.woff2
+https://fonts.gstatic.com/s/materialiconsoutlined/v13/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUca.eot
+https://fonts.gstatic.com/s/materialiconsoutlined/v13/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcY.woff
+https://fonts.gstatic.com/s/materialiconsoutlined/v13/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+```
+
+For future updates, just check the lastest version available from here:  
+https://fonts.googleapis.com/css?family=Material+Icons+Outlined
+
+Replace the old version number with the new one.
+
+### Material Icons Round
+
+Filenames are always the same. Each file has its unique last char + filetype: 
+
+"**LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwm**" + [ **P**.woff2 | **L**.eot | **J**.woff | **M**.otf ]
+
+```
+https://fonts.gstatic.com/s/materialiconsround/v13/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmP.woff2
+https://fonts.gstatic.com/s/materialiconsround/v13/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmL.eot
+https://fonts.gstatic.com/s/materialiconsround/v13/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmJ.woff
+https://fonts.gstatic.com/s/materialiconsround/v13/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmM.otf
+```
+
+For future updates, just check the lastest version available from here:  
+https://fonts.googleapis.com/css?family=Material+Icons+Round
+
+Replace the old version number with the new one.
+
+### Material Icons Sharp
+
+Filenames are always the same. Each file has its unique last char + filetype: 
+
+"**oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmv**" + [ **R**.woff2 | **V**.eot | **X**.woff | **S**.ttf ]
+
+```
+https://fonts.gstatic.com/s/materialiconssharp/v14/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvR.woff2
+https://fonts.gstatic.com/s/materialiconssharp/v14/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvV.eot
+https://fonts.gstatic.com/s/materialiconssharp/v14/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvX.woff
+https://fonts.gstatic.com/s/materialiconssharp/v14/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvS.otf
+```
+
+For future updates, just check the lastest version available from here:  
+https://fonts.googleapis.com/css?family=Material+Icons+Sharp
+
+Replace the old version number with the new one.
+
+### Material Icons Two Tone
+
+Filenames are always the same. Each file has its unique last char + filetype: 
+
+"**hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu**" + [ **0**.woff2 | **w**.eot | **y**.woff | **3**.ttf ]
+
+```
+https://fonts.gstatic.com/s/materialiconstwotone/v12/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0.woff2
+https://fonts.gstatic.com/s/materialiconstwotone/v12/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCuw.eot
+https://fonts.gstatic.com/s/materialiconstwotone/v12/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCuy.woff
+https://fonts.gstatic.com/s/materialiconstwotone/v12/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu3.otf
+```
+
+For future updates, just check the lastest version available from here:  
+https://fonts.googleapis.com/css?family=Material+Icons+Sharp
 
 Replace the old version number with the new one.
 

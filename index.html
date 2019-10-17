@@ -8,6 +8,30 @@
   <link rel="stylesheet" href="./css/pro.css">
   <link rel="stylesheet" href="./css/material-icons.css">
   <!-- <link rel="stylesheet" href="./css/free.min.css"> -->
+  <style>
+      *, html {
+          font-family: Arial;
+      }
+      [class*='material-'] {
+          font-size: 34px;
+      }
+      .material-icons-list {
+          list-style-type: none;
+          padding: 0;
+          margin: 0;
+      }
+      .material-icons-list li {
+          display: flex;
+          align-items: center;
+      }
+      .material-icons-list li span {
+          font-size: 18px;
+      }
+      .font-version {
+          font-size: 24px;
+          font-weight: bold;
+      }
+  </style>
 </head>
 <body>
   <h1>Font awesome pro v5.10.0 icons</h1>
@@ -27,8 +51,33 @@
   <i class="fad fa-acorn"></i>
   <i class="fad fa-apple-alt"></i>
   <i class="fad fa-angry"></i>
-  <h1>Material Icons latest v48</h1>
-  <i class="material-icons">how_to_reg</i>
-  <i class="material-icons">accessible_forward</i>
+  <h1>Material Icons latest</h1>
+  <ul class="material-icons-list">
+      <li>
+        <i class="material-icons">account_circle</i>
+        <i class="material-icons">account_balance_wallet</i>
+        <span>Material Icons Regular <span class="font-version">v48</span></span>
+      </li>
+      <li>
+        <i class="material-icons-outlined">account_circle</i>
+        <i class="material-icons-outlined">account_balance_wallet</i>
+        <span>Material Icons Outlined <span class="font-version">v13</span></span>
+      </li>
+      <li>
+        <i class="material-icons-round">account_circle</i>
+        <i class="material-icons-round">account_balance_wallet</i>
+        <span>Material Icons Round <span class="font-version">v13</span></span>
+      </li>
+      <li>
+        <i class="material-icons-sharp">account_circle</i>
+        <i class="material-icons-sharp">account_balance_wallet</i>
+        <span>Material Icons Sharp <span class="font-version">v14</span></span>
+      </li>
+      <li>
+        <i class="material-icons-two-tone">account_circle</i>
+        <i class="material-icons-two-tone">account_balance_wallet</i>
+        <span>Material Icons Two Tone <span class="font-version">v12</span></span>
+      </li>
+  </ul>
 </body>
 </html>
