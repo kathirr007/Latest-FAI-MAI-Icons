@@ -100,7 +100,7 @@ https://fonts.gstatic.com/s/materialiconstwotone/v12/hESh6WRmNCxEqUmNyh3JDeGxjVV
 ```
 
 For future updates, just check the lastest version available from here:  
-https://fonts.googleapis.com/css?family=Material+Icons+Sharp
+https://fonts.googleapis.com/css?family=Material+Icons+Two+Tone
 
 Replace the old version number with the new one.
 
