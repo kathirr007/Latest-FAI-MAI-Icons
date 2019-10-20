@@ -17,7 +17,7 @@ npm install
 gulp
 ```
 ### To check the latest fonts 
-open index.html and see working icons
+Open index.html and see working icons
 
 ## Guide to Get latest Material-Icons for your local Develeopment Environment or for Self hosting.
 
